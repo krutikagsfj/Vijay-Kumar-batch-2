@@ -1,0 +1,11 @@
+table {
+    width: 100%;
+  }
+  
+  thead.mat-sort-header-sorted {
+    color: red;
+  }
+  
+  th{
+    cursor: pointer;
+  }
